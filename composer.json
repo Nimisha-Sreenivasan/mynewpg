@@ -9,6 +9,7 @@
         "sebastian/phpcpd": "1.4.3",
         "phpdocumentor/phpdocumentor": "v2.0.1",
         "pear/pear_exception": "dev-master",
-        "phing/phing": "2.6.1"
+        "phing/phing": "2.6.1",
+	"nikic/php-parser":"1.0@beta"
     }
 }
