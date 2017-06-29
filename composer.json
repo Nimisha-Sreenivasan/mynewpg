@@ -1,7 +1,6 @@
 {
     "require": {
         "phpunit/phpunit": "3.7.*",
-        "theseer/fxsl": "1.0.*@dev",
 	"nikic/php-parser": "@dev",
         "theseer/phpdox": "^0.9",
         "squizlabs/php_codesniffer": "1.4.6",
