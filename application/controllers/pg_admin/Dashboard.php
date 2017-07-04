@@ -13,6 +13,9 @@ class Dashboard extends CI_Controller {
         }
 	public function index()
 	{
+		
+		echo "Jenkins";
+		
          /*   $data = array();
             // check  for session  is available
             $user_id = $this->session->userdata('user_id');
