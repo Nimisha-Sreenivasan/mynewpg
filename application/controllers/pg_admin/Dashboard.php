@@ -15,6 +15,7 @@ class Dashboard extends CI_Controller {
 	{
 		
 		echo "Jenkins";
+		echo "Jenkins";
 		
          /*   $data = array();
             // check  for session  is available
