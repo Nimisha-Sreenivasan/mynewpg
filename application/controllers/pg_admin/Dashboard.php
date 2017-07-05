@@ -16,6 +16,7 @@ class Dashboard extends CI_Controller {
 		
 		echo "Jenkins123";
 		echo "Jenkins456";
+		echo "TEST";
 
 
 		
