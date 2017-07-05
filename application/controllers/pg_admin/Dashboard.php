@@ -15,6 +15,8 @@ class Dashboard extends CI_Controller {
 	{
 		
 		echo "Jenkins";
+		echo "Jenkins";
+		echo "Jenkins";
 
 		
          /*   $data = array();
